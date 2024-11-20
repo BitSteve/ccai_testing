@@ -1,0 +1,1960 @@
+[
+  {
+    "end": 5.139,
+    "text": " I'm honored to be with you today for your commencement from one of the finest universities in the world.",
+    "start": 0.316,
+    "words": [
+      {
+        "end": 0.476,
+        "word": "I'm",
+        "score": 0.953,
+        "start": 0.316
+      },
+      {
+        "end": 1.477,
+        "word": "honored",
+        "score": 0.868,
+        "start": 1.177
+      },
+      {
+        "end": 1.597,
+        "word": "to",
+        "score": 0.72,
+        "start": 1.517
+      },
+      {
+        "end": 1.757,
+        "word": "be",
+        "score": 0.821,
+        "start": 1.637
+      },
+      {
+        "end": 1.897,
+        "word": "with",
+        "score": 0.877,
+        "start": 1.797
+      },
+      {
+        "end": 2.017,
+        "word": "you",
+        "score": 0.936,
+        "start": 1.937
+      },
+      {
+        "end": 2.337,
+        "word": "today",
+        "score": 0.776,
+        "start": 2.057
+      },
+      {
+        "end": 2.477,
+        "word": "for",
+        "score": 0.861,
+        "start": 2.377
+      },
+      {
+        "end": 2.617,
+        "word": "your",
+        "score": 0.874,
+        "start": 2.497
+      },
+      {
+        "end": 3.158,
+        "word": "commencement",
+        "score": 0.865,
+        "start": 2.637
+      },
+      {
+        "end": 3.318,
+        "word": "from",
+        "score": 0.727,
+        "start": 3.178
+      },
+      {
+        "end": 3.438,
+        "word": "one",
+        "score": 0.841,
+        "start": 3.358
+      },
+      {
+        "end": 3.518,
+        "word": "of",
+        "score": 0.939,
+        "start": 3.478
+      },
+      {
+        "end": 3.618,
+        "word": "the",
+        "score": 0.833,
+        "start": 3.538
+      },
+      {
+        "end": 4.058,
+        "word": "finest",
+        "score": 0.821,
+        "start": 3.678
+      },
+      {
+        "end": 4.698,
+        "word": "universities",
+        "score": 0.819,
+        "start": 4.138
+      },
+      {
+        "end": 4.758,
+        "word": "in",
+        "score": 0.995,
+        "start": 4.718
+      },
+      {
+        "end": 4.859,
+        "word": "the",
+        "score": 0.839,
+        "start": 4.778
+      },
+      {
+        "end": 5.139,
+        "word": "world.",
+        "score": 0.683,
+        "start": 4.899
+      }
+    ]
+  },
+  {
+    "end": 18.486,
+    "text": "Truth be told, I never graduated from college, and this is the closest I've ever gotten to a college graduation.",
+    "start": 9.101,
+    "words": [
+      {
+        "end": 9.401,
+        "word": "Truth",
+        "score": 0.823,
+        "start": 9.101
+      },
+      {
+        "end": 9.641,
+        "word": "be",
+        "score": 0.996,
+        "start": 9.501
+      },
+      {
+        "end": 10.061,
+        "word": "told,",
+        "score": 0.673,
+        "start": 9.701
+      },
+      {
+        "end": 12.002,
+        "word": "I",
+        "score": 0.991,
+        "start": 11.922
+      },
+      {
+        "end": 12.182,
+        "word": "never",
+        "score": 0.9,
+        "start": 12.042
+      },
+      {
+        "end": 12.703,
+        "word": "graduated",
+        "score": 0.892,
+        "start": 12.222
+      },
+      {
+        "end": 12.843,
+        "word": "from",
+        "score": 0.888,
+        "start": 12.723
+      },
+      {
+        "end": 13.283,
+        "word": "college,",
+        "score": 0.941,
+        "start": 12.883
+      },
+      {
+        "end": 14.924,
+        "word": "and",
+        "score": 0.905,
+        "start": 14.544
+      },
+      {
+        "end": 15.724,
+        "word": "this",
+        "score": 0.91,
+        "start": 15.584
+      },
+      {
+        "end": 15.864,
+        "word": "is",
+        "score": 0.795,
+        "start": 15.784
+      },
+      {
+        "end": 15.985,
+        "word": "the",
+        "score": 0.836,
+        "start": 15.904
+      },
+      {
+        "end": 16.465,
+        "word": "closest",
+        "score": 0.936,
+        "start": 16.025
+      },
+      {
+        "end": 16.785,
+        "word": "I've",
+        "score": 0.872,
+        "start": 16.645
+      },
+      {
+        "end": 16.945,
+        "word": "ever",
+        "score": 0.871,
+        "start": 16.825
+      },
+      {
+        "end": 17.265,
+        "word": "gotten",
+        "score": 0.674,
+        "start": 17.005
+      },
+      {
+        "end": 17.405,
+        "word": "to",
+        "score": 0.916,
+        "start": 17.305
+      },
+      {
+        "end": 17.465,
+        "word": "a",
+        "score": 0.992,
+        "start": 17.445
+      },
+      {
+        "end": 17.826,
+        "word": "college",
+        "score": 0.869,
+        "start": 17.505
+      },
+      {
+        "end": 18.486,
+        "word": "graduation.",
+        "score": 0.913,
+        "start": 17.846
+      }
+    ]
+  },
+  {
+    "end": 23.789,
+    "text": "Today, I want to tell you three stories from my life.",
+    "start": 21.187,
+    "words": [
+      {
+        "end": 21.507,
+        "word": "Today,",
+        "score": 0.722,
+        "start": 21.187
+      },
+      {
+        "end": 21.548,
+        "word": "I",
+        "score": 0,
+        "start": 21.528
+      },
+      {
+        "end": 22.168,
+        "word": "want",
+        "score": 0.891,
+        "start": 22.068
+      },
+      {
+        "end": 22.248,
+        "word": "to",
+        "score": 0.95,
+        "start": 22.188
+      },
+      {
+        "end": 22.448,
+        "word": "tell",
+        "score": 0.808,
+        "start": 22.288
+      },
+      {
+        "end": 22.588,
+        "word": "you",
+        "score": 0.802,
+        "start": 22.488
+      },
+      {
+        "end": 22.828,
+        "word": "three",
+        "score": 0.805,
+        "start": 22.628
+      },
+      {
+        "end": 23.168,
+        "word": "stories",
+        "score": 0.851,
+        "start": 22.868
+      },
+      {
+        "end": 23.328,
+        "word": "from",
+        "score": 0.763,
+        "start": 23.208
+      },
+      {
+        "end": 23.489,
+        "word": "my",
+        "score": 0.836,
+        "start": 23.368
+      },
+      {
+        "end": 23.789,
+        "word": "life.",
+        "score": 0.787,
+        "start": 23.529
+      }
+    ]
+  },
+  {
+    "end": 24.789,
+    "text": "That's it.",
+    "start": 24.409,
+    "words": [
+      {
+        "end": 24.649,
+        "word": "That's",
+        "score": 0.859,
+        "start": 24.409
+      },
+      {
+        "end": 24.789,
+        "word": "it.",
+        "score": 0.978,
+        "start": 24.729
+      }
+    ]
+  },
+  {
+    "end": 25.77,
+    "text": "No big deal.",
+    "start": 25.209,
+    "words": [
+      {
+        "end": 25.31,
+        "word": "No",
+        "score": 0.992,
+        "start": 25.209
+      },
+      {
+        "end": 25.47,
+        "word": "big",
+        "score": 0.992,
+        "start": 25.33
+      },
+      {
+        "end": 25.77,
+        "word": "deal.",
+        "score": 0.842,
+        "start": 25.51
+      }
+    ]
+  },
+  {
+    "end": 27.271,
+    "text": "Just three stories.",
+    "start": 26.45,
+    "words": [
+      {
+        "end": 26.63,
+        "word": "Just",
+        "score": 0.831,
+        "start": 26.45
+      },
+      {
+        "end": 26.89,
+        "word": "three",
+        "score": 0.614,
+        "start": 26.67
+      },
+      {
+        "end": 27.271,
+        "word": "stories.",
+        "score": 0.813,
+        "start": 26.93
+      }
+    ]
+  },
+  {
+    "end": 29.752,
+    "text": "The first story",
+    "start": 29.072,
+    "words": [
+      {
+        "end": 29.152,
+        "word": "The",
+        "score": 0.996,
+        "start": 29.072
+      },
+      {
+        "end": 29.392,
+        "word": "first",
+        "score": 0.722,
+        "start": 29.192
+      },
+      {
+        "end": 29.752,
+        "word": "story",
+        "score": 0.942,
+        "start": 29.432
+      }
+    ]
+  },
+  {
+    "end": 31.864,
+    "text": " is about connecting the dots.",
+    "start": 30.663,
+    "words": [
+      {
+        "end": 30.763,
+        "word": "is",
+        "score": 0.709,
+        "start": 30.663
+      },
+      {
+        "end": 30.983,
+        "word": "about",
+        "score": 0.851,
+        "start": 30.783
+      },
+      {
+        "end": 31.403,
+        "word": "connecting",
+        "score": 0.894,
+        "start": 31.023
+      },
+      {
+        "end": 31.503,
+        "word": "the",
+        "score": 0.831,
+        "start": 31.423
+      },
+      {
+        "end": 31.864,
+        "word": "dots.",
+        "score": 0.8,
+        "start": 31.523
+      }
+    ]
+  },
+  {
+    "end": 41.068,
+    "text": "I dropped out of Reed College after the first six months, but then stayed around as a drop-in for another 18 months or so before I really quit.",
+    "start": 34.085,
+    "words": [
+      {
+        "end": 34.165,
+        "word": "I",
+        "score": 0.75,
+        "start": 34.085
+      },
+      {
+        "end": 34.485,
+        "word": "dropped",
+        "score": 0.865,
+        "start": 34.205
+      },
+      {
+        "end": 34.585,
+        "word": "out",
+        "score": 0.99,
+        "start": 34.505
+      },
+      {
+        "end": 34.665,
+        "word": "of",
+        "score": 0.116,
+        "start": 34.625
+      },
+      {
+        "end": 34.865,
+        "word": "Reed",
+        "score": 0.83,
+        "start": 34.685
+      },
+      {
+        "end": 35.325,
+        "word": "College",
+        "score": 0.924,
+        "start": 34.905
+      },
+      {
+        "end": 35.926,
+        "word": "after",
+        "score": 0.855,
+        "start": 35.746
+      },
+      {
+        "end": 36.026,
+        "word": "the",
+        "score": 0.83,
+        "start": 35.946
+      },
+      {
+        "end": 36.246,
+        "word": "first",
+        "score": 0.706,
+        "start": 36.066
+      },
+      {
+        "end": 36.466,
+        "word": "six",
+        "score": 0.938,
+        "start": 36.286
+      },
+      {
+        "end": 36.786,
+        "word": "months,",
+        "score": 0.879,
+        "start": 36.526
+      },
+      {
+        "end": 37.206,
+        "word": "but",
+        "score": 0.972,
+        "start": 37.106
+      },
+      {
+        "end": 37.386,
+        "word": "then",
+        "score": 0.987,
+        "start": 37.246
+      },
+      {
+        "end": 37.687,
+        "word": "stayed",
+        "score": 0.83,
+        "start": 37.446
+      },
+      {
+        "end": 37.947,
+        "word": "around",
+        "score": 0.907,
+        "start": 37.707
+      },
+      {
+        "end": 38.067,
+        "word": "as",
+        "score": 0.828,
+        "start": 38.007
+      },
+      {
+        "end": 38.127,
+        "word": "a",
+        "score": 0.997,
+        "start": 38.107
+      },
+      {
+        "end": 38.627,
+        "word": "drop-in",
+        "score": 0.923,
+        "start": 38.187
+      },
+      {
+        "end": 38.787,
+        "word": "for",
+        "score": 0.869,
+        "start": 38.687
+      },
+      {
+        "end": 39.027,
+        "word": "another",
+        "score": 0.784,
+        "start": 38.807
+      },
+      {
+        "word": "18"
+      },
+      {
+        "end": 39.728,
+        "word": "months",
+        "score": 0.915,
+        "start": 39.527
+      },
+      {
+        "end": 39.848,
+        "word": "or",
+        "score": 0.764,
+        "start": 39.788
+      },
+      {
+        "end": 40.108,
+        "word": "so",
+        "score": 0.79,
+        "start": 39.908
+      },
+      {
+        "end": 40.428,
+        "word": "before",
+        "score": 0.818,
+        "start": 40.168
+      },
+      {
+        "end": 40.508,
+        "word": "I",
+        "score": 0.969,
+        "start": 40.468
+      },
+      {
+        "end": 40.768,
+        "word": "really",
+        "score": 0.704,
+        "start": 40.548
+      },
+      {
+        "end": 41.068,
+        "word": "quit.",
+        "score": 0.871,
+        "start": 40.828
+      }
+    ]
+  },
+  {
+    "end": 43.529,
+    "text": "So why'd I drop out?",
+    "start": 42.529,
+    "words": [
+      {
+        "end": 42.649,
+        "word": "So",
+        "score": 0.826,
+        "start": 42.529
+      },
+      {
+        "end": 42.909,
+        "word": "why'd",
+        "score": 0.7,
+        "start": 42.689
+      },
+      {
+        "end": 42.989,
+        "word": "I",
+        "score": 0.719,
+        "start": 42.929
+      },
+      {
+        "end": 43.289,
+        "word": "drop",
+        "score": 0.799,
+        "start": 43.029
+      },
+      {
+        "end": 43.529,
+        "word": "out?",
+        "score": 0.79,
+        "start": 43.409
+      }
+    ]
+  },
+  {
+    "end": 46.851,
+    "text": "It started before I was born.",
+    "start": 45.47,
+    "words": [
+      {
+        "end": 45.571,
+        "word": "It",
+        "score": 0.872,
+        "start": 45.47
+      },
+      {
+        "end": 45.951,
+        "word": "started",
+        "score": 0.758,
+        "start": 45.611
+      },
+      {
+        "end": 46.231,
+        "word": "before",
+        "score": 0.84,
+        "start": 45.991
+      },
+      {
+        "end": 46.311,
+        "word": "I",
+        "score": 0.5,
+        "start": 46.271
+      },
+      {
+        "end": 46.451,
+        "word": "was",
+        "score": 0.667,
+        "start": 46.351
+      },
+      {
+        "end": 46.851,
+        "word": "born.",
+        "score": 0.652,
+        "start": 46.511
+      }
+    ]
+  },
+  {
+    "end": 54.175,
+    "text": "My biological mother was a young, unwed graduate student, and she decided to put me up for adoption.",
+    "start": 48.432,
+    "words": [
+      {
+        "end": 48.532,
+        "word": "My",
+        "score": 0.808,
+        "start": 48.432
+      },
+      {
+        "end": 49.172,
+        "word": "biological",
+        "score": 0.844,
+        "start": 48.592
+      },
+      {
+        "end": 49.513,
+        "word": "mother",
+        "score": 0.791,
+        "start": 49.212
+      },
+      {
+        "end": 50.213,
+        "word": "was",
+        "score": 0.832,
+        "start": 50.073
+      },
+      {
+        "end": 50.273,
+        "word": "a",
+        "score": 0.99,
+        "start": 50.253
+      },
+      {
+        "end": 50.593,
+        "word": "young,",
+        "score": 0.821,
+        "start": 50.333
+      },
+      {
+        "end": 51.153,
+        "word": "unwed",
+        "score": 0.902,
+        "start": 50.793
+      },
+      {
+        "end": 51.614,
+        "word": "graduate",
+        "score": 0.853,
+        "start": 51.173
+      },
+      {
+        "end": 51.974,
+        "word": "student,",
+        "score": 0.846,
+        "start": 51.654
+      },
+      {
+        "end": 52.494,
+        "word": "and",
+        "score": 0.906,
+        "start": 52.414
+      },
+      {
+        "end": 52.634,
+        "word": "she",
+        "score": 0.716,
+        "start": 52.514
+      },
+      {
+        "end": 53.054,
+        "word": "decided",
+        "score": 0.914,
+        "start": 52.654
+      },
+      {
+        "end": 53.154,
+        "word": "to",
+        "score": 0.75,
+        "start": 53.094
+      },
+      {
+        "end": 53.314,
+        "word": "put",
+        "score": 0.838,
+        "start": 53.174
+      },
+      {
+        "end": 53.394,
+        "word": "me",
+        "score": 0.753,
+        "start": 53.334
+      },
+      {
+        "end": 53.535,
+        "word": "up",
+        "score": 0.736,
+        "start": 53.454
+      },
+      {
+        "end": 53.655,
+        "word": "for",
+        "score": 0.983,
+        "start": 53.555
+      },
+      {
+        "end": 54.175,
+        "word": "adoption.",
+        "score": 0.956,
+        "start": 53.695
+      }
+    ]
+  },
+  {
+    "end": 60.358,
+    "text": "She felt very strongly that I should be adopted by college graduates, so everything was all set",
+    "start": 55.496,
+    "words": [
+      {
+        "end": 55.616,
+        "word": "She",
+        "score": 0.829,
+        "start": 55.496
+      },
+      {
+        "end": 55.936,
+        "word": "felt",
+        "score": 0.849,
+        "start": 55.676
+      },
+      {
+        "end": 56.276,
+        "word": "very",
+        "score": 0.903,
+        "start": 56.036
+      },
+      {
+        "end": 56.776,
+        "word": "strongly",
+        "score": 0.662,
+        "start": 56.336
+      },
+      {
+        "end": 56.896,
+        "word": "that",
+        "score": 0.999,
+        "start": 56.796
+      },
+      {
+        "end": 56.976,
+        "word": "I",
+        "score": 0.589,
+        "start": 56.936
+      },
+      {
+        "end": 57.176,
+        "word": "should",
+        "score": 0.842,
+        "start": 57.016
+      },
+      {
+        "end": 57.256,
+        "word": "be",
+        "score": 0.786,
+        "start": 57.196
+      },
+      {
+        "end": 57.717,
+        "word": "adopted",
+        "score": 0.822,
+        "start": 57.296
+      },
+      {
+        "end": 57.877,
+        "word": "by",
+        "score": 0.758,
+        "start": 57.757
+      },
+      {
+        "end": 58.297,
+        "word": "college",
+        "score": 0.949,
+        "start": 57.957
+      },
+      {
+        "end": 58.817,
+        "word": "graduates,",
+        "score": 0.848,
+        "start": 58.317
+      },
+      {
+        "end": 59.438,
+        "word": "so",
+        "score": 0.981,
+        "start": 59.317
+      },
+      {
+        "end": 59.758,
+        "word": "everything",
+        "score": 0.868,
+        "start": 59.498
+      },
+      {
+        "end": 59.878,
+        "word": "was",
+        "score": 0.847,
+        "start": 59.778
+      },
+      {
+        "end": 60.098,
+        "word": "all",
+        "score": 0.934,
+        "start": 59.938
+      },
+      {
+        "end": 60.358,
+        "word": "set",
+        "score": 0.997,
+        "start": 60.178
+      }
+    ]
+  },
+  {
+    "end": 63.512,
+    "text": " for me to be adopted at birth by a lawyer and his wife.",
+    "start": 60.93,
+    "words": [
+      {
+        "end": 61.03,
+        "word": "for",
+        "score": 0.883,
+        "start": 60.93
+      },
+      {
+        "end": 61.13,
+        "word": "me",
+        "score": 0.998,
+        "start": 61.05
+      },
+      {
+        "end": 61.21,
+        "word": "to",
+        "score": 0.999,
+        "start": 61.17
+      },
+      {
+        "end": 61.33,
+        "word": "be",
+        "score": 0.828,
+        "start": 61.25
+      },
+      {
+        "end": 61.751,
+        "word": "adopted",
+        "score": 0.745,
+        "start": 61.37
+      },
+      {
+        "end": 61.831,
+        "word": "at",
+        "score": 0.745,
+        "start": 61.771
+      },
+      {
+        "end": 62.151,
+        "word": "birth",
+        "score": 0.89,
+        "start": 61.911
+      },
+      {
+        "end": 62.371,
+        "word": "by",
+        "score": 0.833,
+        "start": 62.231
+      },
+      {
+        "end": 62.431,
+        "word": "a",
+        "score": 0.995,
+        "start": 62.411
+      },
+      {
+        "end": 62.872,
+        "word": "lawyer",
+        "score": 0.745,
+        "start": 62.511
+      },
+      {
+        "end": 63.112,
+        "word": "and",
+        "score": 0.866,
+        "start": 63.032
+      },
+      {
+        "end": 63.232,
+        "word": "his",
+        "score": 0.849,
+        "start": 63.152
+      },
+      {
+        "end": 63.512,
+        "word": "wife.",
+        "score": 0.873,
+        "start": 63.292
+      }
+    ]
+  },
+  {
+    "end": 69.437,
+    "text": "Except that when I popped out, they decided at the last minute that they really wanted a girl.",
+    "start": 64.953,
+    "words": [
+      {
+        "end": 65.274,
+        "word": "Except",
+        "score": 0.864,
+        "start": 64.953
+      },
+      {
+        "end": 65.394,
+        "word": "that",
+        "score": 0.98,
+        "start": 65.314
+      },
+      {
+        "end": 65.534,
+        "word": "when",
+        "score": 0.904,
+        "start": 65.434
+      },
+      {
+        "end": 65.694,
+        "word": "I",
+        "score": 0.913,
+        "start": 65.594
+      },
+      {
+        "end": 66.034,
+        "word": "popped",
+        "score": 0.909,
+        "start": 65.734
+      },
+      {
+        "end": 66.274,
+        "word": "out,",
+        "score": 0.786,
+        "start": 66.154
+      },
+      {
+        "end": 66.855,
+        "word": "they",
+        "score": 0.876,
+        "start": 66.735
+      },
+      {
+        "end": 67.275,
+        "word": "decided",
+        "score": 0.877,
+        "start": 66.895
+      },
+      {
+        "end": 67.355,
+        "word": "at",
+        "score": 0.68,
+        "start": 67.295
+      },
+      {
+        "end": 67.475,
+        "word": "the",
+        "score": 0.83,
+        "start": 67.395
+      },
+      {
+        "end": 67.736,
+        "word": "last",
+        "score": 0.754,
+        "start": 67.515
+      },
+      {
+        "end": 68.016,
+        "word": "minute",
+        "score": 0.704,
+        "start": 67.776
+      },
+      {
+        "end": 68.416,
+        "word": "that",
+        "score": 0.871,
+        "start": 68.296
+      },
+      {
+        "end": 68.556,
+        "word": "they",
+        "score": 0.898,
+        "start": 68.436
+      },
+      {
+        "end": 68.797,
+        "word": "really",
+        "score": 0.798,
+        "start": 68.576
+      },
+      {
+        "end": 69.057,
+        "word": "wanted",
+        "score": 0.761,
+        "start": 68.837
+      },
+      {
+        "end": 69.117,
+        "word": "a",
+        "score": 0.498,
+        "start": 69.077
+      },
+      {
+        "end": 69.437,
+        "word": "girl.",
+        "score": 0.729,
+        "start": 69.157
+      }
+    ]
+  },
+  {
+    "end": 78.305,
+    "text": "So my parents, who were on a waiting list, got a call in the middle of the night asking, we've got an unexpected baby boy.",
+    "start": 71.018,
+    "words": [
+      {
+        "end": 71.139,
+        "word": "So",
+        "score": 0.859,
+        "start": 71.018
+      },
+      {
+        "end": 71.299,
+        "word": "my",
+        "score": 0.836,
+        "start": 71.179
+      },
+      {
+        "end": 71.759,
+        "word": "parents,",
+        "score": 0.813,
+        "start": 71.359
+      },
+      {
+        "end": 72.059,
+        "word": "who",
+        "score": 0.768,
+        "start": 71.959
+      },
+      {
+        "end": 72.179,
+        "word": "were",
+        "score": 0.665,
+        "start": 72.079
+      },
+      {
+        "end": 72.279,
+        "word": "on",
+        "score": 0.684,
+        "start": 72.199
+      },
+      {
+        "end": 72.32,
+        "word": "a",
+        "score": 0.985,
+        "start": 72.299
+      },
+      {
+        "end": 72.64,
+        "word": "waiting",
+        "score": 0.922,
+        "start": 72.38
+      },
+      {
+        "end": 72.92,
+        "word": "list,",
+        "score": 0.865,
+        "start": 72.66
+      },
+      {
+        "end": 73.46,
+        "word": "got",
+        "score": 0.833,
+        "start": 73.3
+      },
+      {
+        "end": 73.5,
+        "word": "a",
+        "score": 0.969,
+        "start": 73.48
+      },
+      {
+        "end": 73.861,
+        "word": "call",
+        "score": 0.908,
+        "start": 73.561
+      },
+      {
+        "end": 73.961,
+        "word": "in",
+        "score": 0.812,
+        "start": 73.901
+      },
+      {
+        "end": 74.041,
+        "word": "the",
+        "score": 0.999,
+        "start": 73.981
+      },
+      {
+        "end": 74.261,
+        "word": "middle",
+        "score": 0.928,
+        "start": 74.081
+      },
+      {
+        "end": 74.321,
+        "word": "of",
+        "score": 0.941,
+        "start": 74.281
+      },
+      {
+        "end": 74.421,
+        "word": "the",
+        "score": 0.793,
+        "start": 74.341
+      },
+      {
+        "end": 74.722,
+        "word": "night",
+        "score": 0.741,
+        "start": 74.481
+      },
+      {
+        "end": 75.402,
+        "word": "asking,",
+        "score": 0.818,
+        "start": 75.082
+      },
+      {
+        "end": 76.623,
+        "word": "we've",
+        "score": 0.908,
+        "start": 76.463
+      },
+      {
+        "end": 76.803,
+        "word": "got",
+        "score": 0.79,
+        "start": 76.663
+      },
+      {
+        "end": 76.883,
+        "word": "an",
+        "score": 0.747,
+        "start": 76.823
+      },
+      {
+        "end": 77.564,
+        "word": "unexpected",
+        "score": 0.837,
+        "start": 76.963
+      },
+      {
+        "end": 77.904,
+        "word": "baby",
+        "score": 0.889,
+        "start": 77.604
+      },
+      {
+        "end": 78.305,
+        "word": "boy.",
+        "score": 0.871,
+        "start": 77.964
+      }
+    ]
+  },
+  {
+    "end": 79.325,
+    "text": "Do you want him?",
+    "start": 78.785,
+    "words": [
+      {
+        "end": 78.845,
+        "word": "Do",
+        "score": 0.868,
+        "start": 78.785
+      },
+      {
+        "end": 78.965,
+        "word": "you",
+        "score": 0.875,
+        "start": 78.865
+      },
+      {
+        "end": 79.185,
+        "word": "want",
+        "score": 0.906,
+        "start": 79.005
+      },
+      {
+        "end": 79.325,
+        "word": "him?",
+        "score": 0.829,
+        "start": 79.225
+      }
+    ]
+  },
+  {
+    "end": 81.908,
+    "text": "They said, of course.",
+    "start": 80.566,
+    "words": [
+      {
+        "end": 80.686,
+        "word": "They",
+        "score": 0.885,
+        "start": 80.566
+      },
+      {
+        "end": 80.967,
+        "word": "said,",
+        "score": 0.863,
+        "start": 80.747
+      },
+      {
+        "end": 81.567,
+        "word": "of",
+        "score": 0.982,
+        "start": 81.507
+      },
+      {
+        "end": 81.908,
+        "word": "course.",
+        "score": 0.809,
+        "start": 81.647
+      }
+    ]
+  },
+  {
+    "end": 88.333,
+    "text": "My biological mother found out later that my mother had never graduated from college",
+    "start": 84.049,
+    "words": [
+      {
+        "end": 84.169,
+        "word": "My",
+        "score": 0.826,
+        "start": 84.049
+      },
+      {
+        "end": 84.81,
+        "word": "biological",
+        "score": 0.896,
+        "start": 84.209
+      },
+      {
+        "end": 85.11,
+        "word": "mother",
+        "score": 0.758,
+        "start": 84.87
+      },
+      {
+        "end": 85.41,
+        "word": "found",
+        "score": 0.986,
+        "start": 85.19
+      },
+      {
+        "end": 85.591,
+        "word": "out",
+        "score": 0.833,
+        "start": 85.491
+      },
+      {
+        "end": 85.911,
+        "word": "later",
+        "score": 0.76,
+        "start": 85.631
+      },
+      {
+        "end": 86.411,
+        "word": "that",
+        "score": 0.939,
+        "start": 86.291
+      },
+      {
+        "end": 86.571,
+        "word": "my",
+        "score": 0.81,
+        "start": 86.451
+      },
+      {
+        "end": 86.872,
+        "word": "mother",
+        "score": 0.815,
+        "start": 86.631
+      },
+      {
+        "end": 87.012,
+        "word": "had",
+        "score": 0.833,
+        "start": 86.912
+      },
+      {
+        "end": 87.232,
+        "word": "never",
+        "score": 0.807,
+        "start": 87.052
+      },
+      {
+        "end": 87.792,
+        "word": "graduated",
+        "score": 0.816,
+        "start": 87.292
+      },
+      {
+        "end": 87.933,
+        "word": "from",
+        "score": 0.915,
+        "start": 87.812
+      },
+      {
+        "end": 88.333,
+        "word": "college",
+        "score": 0.975,
+        "start": 87.973
+      }
+    ]
+  },
+  {
+    "end": 91.223,
+    "text": " and that my father had never graduated from high school.",
+    "start": 89.002,
+    "words": [
+      {
+        "end": 89.062,
+        "word": "and",
+        "score": 0.002,
+        "start": 89.002
+      },
+      {
+        "end": 89.182,
+        "word": "that",
+        "score": 0.842,
+        "start": 89.082
+      },
+      {
+        "end": 89.302,
+        "word": "my",
+        "score": 0.746,
+        "start": 89.202
+      },
+      {
+        "end": 89.702,
+        "word": "father",
+        "score": 0.935,
+        "start": 89.382
+      },
+      {
+        "end": 89.842,
+        "word": "had",
+        "score": 0.844,
+        "start": 89.742
+      },
+      {
+        "end": 90.042,
+        "word": "never",
+        "score": 0.914,
+        "start": 89.882
+      },
+      {
+        "end": 90.563,
+        "word": "graduated",
+        "score": 0.846,
+        "start": 90.082
+      },
+      {
+        "end": 90.703,
+        "word": "from",
+        "score": 0.798,
+        "start": 90.583
+      },
+      {
+        "end": 90.923,
+        "word": "high",
+        "score": 0.828,
+        "start": 90.743
+      },
+      {
+        "end": 91.223,
+        "word": "school.",
+        "score": 0.779,
+        "start": 90.963
+      }
+    ]
+  },
+  {
+    "end": 94.824,
+    "text": "She refused to sign the final adoption papers.",
+    "start": 92.223,
+    "words": [
+      {
+        "end": 92.363,
+        "word": "She",
+        "score": 0.724,
+        "start": 92.223
+      },
+      {
+        "end": 92.923,
+        "word": "refused",
+        "score": 0.859,
+        "start": 92.423
+      },
+      {
+        "end": 93.043,
+        "word": "to",
+        "score": 0.876,
+        "start": 92.963
+      },
+      {
+        "end": 93.504,
+        "word": "sign",
+        "score": 0.714,
+        "start": 93.123
+      },
+      {
+        "end": 93.624,
+        "word": "the",
+        "score": 0.835,
+        "start": 93.544
+      },
+      {
+        "end": 93.964,
+        "word": "final",
+        "score": 0.894,
+        "start": 93.684
+      },
+      {
+        "end": 94.424,
+        "word": "adoption",
+        "score": 0.98,
+        "start": 94.004
+      },
+      {
+        "end": 94.824,
+        "word": "papers.",
+        "score": 0.797,
+        "start": 94.464
+      }
+    ]
+  },
+  {
+    "end": 101.346,
+    "text": "She only relented a few months later when my parents promised that I would go to college.",
+    "start": 96.505,
+    "words": [
+      {
+        "end": 96.625,
+        "word": "She",
+        "score": 0.89,
+        "start": 96.505
+      },
+      {
+        "end": 96.905,
+        "word": "only",
+        "score": 0.814,
+        "start": 96.705
+      },
+      {
+        "end": 97.385,
+        "word": "relented",
+        "score": 0.865,
+        "start": 96.945
+      },
+      {
+        "end": 97.445,
+        "word": "a",
+        "score": 1,
+        "start": 97.425
+      },
+      {
+        "end": 97.625,
+        "word": "few",
+        "score": 0.693,
+        "start": 97.485
+      },
+      {
+        "end": 97.845,
+        "word": "months",
+        "score": 0.84,
+        "start": 97.645
+      },
+      {
+        "end": 98.165,
+        "word": "later",
+        "score": 0.816,
+        "start": 97.885
+      },
+      {
+        "end": 98.465,
+        "word": "when",
+        "score": 0.892,
+        "start": 98.345
+      },
+      {
+        "end": 98.605,
+        "word": "my",
+        "score": 0.998,
+        "start": 98.505
+      },
+      {
+        "end": 99.086,
+        "word": "parents",
+        "score": 0.864,
+        "start": 98.685
+      },
+      {
+        "end": 99.686,
+        "word": "promised",
+        "score": 0.902,
+        "start": 99.266
+      },
+      {
+        "end": 100.266,
+        "word": "that",
+        "score": 0.938,
+        "start": 100.126
+      },
+      {
+        "end": 100.466,
+        "word": "I",
+        "score": 0.997,
+        "start": 100.406
+      },
+      {
+        "end": 100.646,
+        "word": "would",
+        "score": 0.915,
+        "start": 100.506
+      },
+      {
+        "end": 100.806,
+        "word": "go",
+        "score": 0.976,
+        "start": 100.686
+      },
+      {
+        "end": 100.906,
+        "word": "to",
+        "score": 0.84,
+        "start": 100.846
+      },
+      {
+        "end": 101.346,
+        "word": "college.",
+        "score": 0.843,
+        "start": 100.946
+      }
+    ]
+  },
+  {
+    "end": 104.487,
+    "text": "This was the start in my life.",
+    "start": 102.447,
+    "words": [
+      {
+        "end": 102.607,
+        "word": "This",
+        "score": 0.84,
+        "start": 102.447
+      },
+      {
+        "end": 102.767,
+        "word": "was",
+        "score": 0.972,
+        "start": 102.647
+      },
+      {
+        "end": 102.907,
+        "word": "the",
+        "score": 0.916,
+        "start": 102.807
+      },
+      {
+        "end": 103.287,
+        "word": "start",
+        "score": 0.931,
+        "start": 102.967
+      },
+      {
+        "end": 104.087,
+        "word": "in",
+        "score": 0.948,
+        "start": 104.027
+      },
+      {
+        "end": 104.227,
+        "word": "my",
+        "score": 0.794,
+        "start": 104.107
+      },
+      {
+        "end": 104.487,
+        "word": "life.",
+        "score": 0.844,
+        "start": 104.267
+      }
+    ]
+  },
+  {
+    "end": 109.609,
+    "text": "And 17 years later, I did go to college.",
+    "start": 107.008,
+    "words": [
+      {
+        "end": 107.108,
+        "word": "And",
+        "score": 0.905,
+        "start": 107.008
+      },
+      {
+        "word": "17"
+      },
+      {
+        "end": 107.869,
+        "word": "years",
+        "score": 0.669,
+        "start": 107.689
+      },
+      {
+        "end": 108.189,
+        "word": "later,",
+        "score": 0.75,
+        "start": 107.909
+      },
+      {
+        "end": 108.809,
+        "word": "I",
+        "score": 0.668,
+        "start": 108.749
+      },
+      {
+        "end": 108.989,
+        "word": "did",
+        "score": 0.73,
+        "start": 108.849
+      },
+      {
+        "end": 109.129,
+        "word": "go",
+        "score": 0.674,
+        "start": 109.009
+      },
+      {
+        "end": 109.209,
+        "word": "to",
+        "score": 0.752,
+        "start": 109.149
+      },
+      {
+        "end": 109.609,
+        "word": "college.",
+        "score": 0.859,
+        "start": 109.249
+      }
+    ]
+  },
+  {
+    "end": 114.371,
+    "text": "But I naively chose a college that was almost as expensive as Stanford.",
+    "start": 110.63,
+    "words": [
+      {
+        "end": 110.75,
+        "word": "But",
+        "score": 0.852,
+        "start": 110.63
+      },
+      {
+        "end": 110.89,
+        "word": "I",
+        "score": 0.754,
+        "start": 110.81
+      },
+      {
+        "end": 111.39,
+        "word": "naively",
+        "score": 0.864,
+        "start": 110.93
+      },
+      {
+        "end": 111.67,
+        "word": "chose",
+        "score": 0.867,
+        "start": 111.43
+      },
+      {
+        "end": 111.73,
+        "word": "a",
+        "score": 0.506,
+        "start": 111.69
+      },
+      {
+        "end": 112.23,
+        "word": "college",
+        "score": 0.878,
+        "start": 111.77
+      },
+      {
+        "end": 112.53,
+        "word": "that",
+        "score": 0.877,
+        "start": 112.41
+      },
+      {
+        "end": 112.63,
+        "word": "was",
+        "score": 0.883,
+        "start": 112.55
+      },
+      {
+        "end": 113.091,
+        "word": "almost",
+        "score": 0.868,
+        "start": 112.81
+      },
+      {
+        "end": 113.231,
+        "word": "as",
+        "score": 0.668,
+        "start": 113.151
+      },
+      {
+        "end": 113.771,
+        "word": "expensive",
+        "score": 0.891,
+        "start": 113.291
+      },
+      {
+        "end": 113.871,
+        "word": "as",
+        "score": 0.744,
+        "start": 113.811
+      },
+      {
+        "end": 114.371,
+        "word": "Stanford.",
+        "score": 0.889,
+        "start": 113.911
+      }
+    ]
+  },
+  {
+    "end": 119.505,
+    "text": " And all of my working class parent savings were being spent on my college tuition.",
+    "start": 115.598,
+    "words": [
+      {
+        "end": 115.698,
+        "word": "And",
+        "score": 0.79,
+        "start": 115.598
+      },
+      {
+        "end": 115.979,
+        "word": "all",
+        "score": 0.879,
+        "start": 115.839
+      },
+      {
+        "end": 116.059,
+        "word": "of",
+        "score": 0.754,
+        "start": 116.019
+      },
+      {
+        "end": 116.239,
+        "word": "my",
+        "score": 0.853,
+        "start": 116.119
+      },
+      {
+        "end": 116.6,
+        "word": "working",
+        "score": 0.861,
+        "start": 116.299
+      },
+      {
+        "end": 116.94,
+        "word": "class",
+        "score": 0.871,
+        "start": 116.66
+      },
+      {
+        "end": 117.341,
+        "word": "parent",
+        "score": 0.893,
+        "start": 117.021
+      },
+      {
+        "end": 117.782,
+        "word": "savings",
+        "score": 0.869,
+        "start": 117.401
+      },
+      {
+        "end": 117.942,
+        "word": "were",
+        "score": 0.766,
+        "start": 117.802
+      },
+      {
+        "end": 118.122,
+        "word": "being",
+        "score": 0.969,
+        "start": 117.962
+      },
+      {
+        "end": 118.503,
+        "word": "spent",
+        "score": 0.894,
+        "start": 118.203
+      },
+      {
+        "end": 118.623,
+        "word": "on",
+        "score": 0.51,
+        "start": 118.543
+      },
+      {
+        "end": 118.744,
+        "word": "my",
+        "score": 0.998,
+        "start": 118.643
+      },
+      {
+        "end": 119.124,
+        "word": "college",
+        "score": 0.868,
+        "start": 118.804
+      },
+      {
+        "end": 119.505,
+        "word": "tuition.",
+        "score": 0.975,
+        "start": 119.164
+      }
+    ]
+  }
+]
